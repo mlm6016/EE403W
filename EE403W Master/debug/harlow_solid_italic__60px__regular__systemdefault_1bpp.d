@@ -1,0 +1,8 @@
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: SRC\eGFX\Fonts\Harlow_Solid_Italic__60px__Regular__SystemDefault_1BPP\Harlow_Solid_Italic__60px__Regular__SystemDefault_1BPP.c
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: .\SRC\eGFX\eGFX.h
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: .\SRC\eGFX\eGFX_DataTypes.h
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: SRC\eGFX\Fonts\Harlow_Solid_Italic__60px__Regular__SystemDefault_1BPP\Harlow_Solid_Italic__60px__Regular__SystemDefault_1BPP.h
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: .\SRC\eGFX\eGFX.h
+debug\harlow_solid_italic__60px__regular__systemdefault_1bpp.o: .\SRC\eGFX\eGFX_DataTypes.h
